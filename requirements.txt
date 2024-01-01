@@ -10,6 +10,8 @@ wget
 yt-dlp
 hachoir
 bs4
+ffprobe
+ffmpeg
 httpx[http2]
 img2pdf
 tglogging
